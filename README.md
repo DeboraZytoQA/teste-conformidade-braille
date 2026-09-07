@@ -4,6 +4,8 @@ Livro infantil sobre o Egito Antigo, em letra ampliada e em Braille, com as
 ilustrações desenhadas em SVG. O livro é um arquivo HTML único, que abre em
 qualquer navegador sem instalação.
 
+**[Ler o livro no navegador](https://deborazytoqa.github.io/teste-conformidade-braille/livro-egito-braille.html)**
+
 O que este repositório mostra não é o livro. É **como o livro foi verificado**.
 
 ## O problema de teste
