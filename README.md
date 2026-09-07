@@ -1,4 +1,4 @@
-# Livro digital em Braille — teste contra especificação
+# Livro digital em Braille teste contra especificação
 
 Livro infantil sobre o Egito Antigo, em letra ampliada e em Braille, com as
 ilustrações desenhadas em SVG. O livro é um arquivo HTML único, que abre em
